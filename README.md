@@ -20,7 +20,7 @@ Inquirer is required. It is included in this repo
 Clone this repo. Then in your terminal run "npm i" to install Inquirer. Once Inquirer has been installed, run "node index.js" to start the application. Follow the prompts on your screen to build your README file
 
 Walkthrough of running the application and filling out the prompts:
-[![Embedded Content](https://drive.google.com/file/d/1FkRFkoGeTgw_duJQv5ILP6dVKaMZrpfJ/preview)
+(![alt text](img/README-generator.png))(https://drive.google.com/file/d/1FkRFkoGeTgw_duJQv5ILP6dVKaMZrpfJ/preview)
 
 # License 
 This application is covered under the following license:
